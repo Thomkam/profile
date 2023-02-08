@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Roboto:wght@400;500&display=swap');
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+.card {
+  text-align: center;
+}
+h1{
+  color: #575F7D;
+  background-color:aliceblue;
+  width: max-content;
+  padding: 5px 20px;
+  font-family:'Roboto',sans-serif;
+  line-height:normal;
+}
+#link_center > li > a {
+  text-align: center;
+}
+h2{
+  color: #575F7D;
+  font-family:'Roboto',sans-serif;
+}
+p{font-family: 'Lora', serif;}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #6B72E1;
+    font-weight: 600;
+    font-size: 16px;
+}
+a:hover {
+  color:rgb(147, 99, 8);
+}
